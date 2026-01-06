@@ -22,3 +22,5 @@ Some stories start in parking garages and end on launch pads.
 
 This work is licensed under a  
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+
+© 2026 Boris Truyens
