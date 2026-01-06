@@ -17,7 +17,7 @@ Some stories start in parking garages and end on launch pads.
 
 📘 **Read Part One:**
 
-(EPUB):[Download The Trinidad Aerospace Institute Logs — Pt. #1](https://raw.githubusercontent.com/bokk3/Trinidad-Institute-Logs/Master/downloads/trinidad-aerospace-institute-logs.epub)
+(EPUB):[Download The Trinidad Aerospace Institute Logs — Pt. #1](https://raw.githubusercontent.com/bokk3/Trinidad-Aerospace-Logs/master/downloads/trinidad-aerospace-institute-logs.epub)
 
 (PDF):[Download The Trinidad Aerospace Institute Logs — Pt. #1](Downloads/Trinidad-Aerospace-Institute-Logs.pdf)
 
