@@ -1,5 +1,5 @@
 pandoc -o "Trinidad Aerospace.epub" \
---epub-cover-image=Images/1.png \
+--epub-cover-image=Images/cover.png \
 --epub-title-page=false \
 --css=trinidad.css \
 --toc --toc-depth=1 \
