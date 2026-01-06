@@ -13,6 +13,12 @@ From neon-lit garages to mist-filled rocket bays, this story explores what happe
 
 Some stories start in parking garages and end on launch pads.
 
+## Free Download
+
+📘 **Read Part One (EPUB):**  
+[Download The Trinidad Aerospace Institute Logs — Pt. #1](Downloads/Trinidad-Aerospace-Institute-Logs.epub)
+
+
 ---
 
 **Author:** Boris Truyens  
