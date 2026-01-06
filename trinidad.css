@@ -1,0 +1,105 @@
+/* TRINIDAD AEROSPACE - CLEAN SANS STYLE 2026 */
+
+html {
+  font-size: 100%;
+}
+
+body {
+  /* Using a modern sans-serif stack for better digital readability */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  /* Increased from 12px to 14px (approx 10.5pt to 11.5pt) for better legibility */
+  font-size: 14px;
+  line-height: 1.6;
+  color: #1a1a1a;
+  background: #fefefe;
+  margin: 0 auto;
+  padding: 1em;
+  max-width: 40em;
+}
+
+/* Fix for titles not showing: Ensure clear color and visible margins */
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 1.5em; /* Reduced from 2em to prevent "floating" off-screen */
+  margin-bottom: 0.5em;
+  page-break-after: avoid;
+}
+
+h1 { font-size: 2.2em; text-align: center; }
+h2 { font-size: 1.8em; border-bottom: 1px solid #eee; padding-bottom: 0.2em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.2em; }
+
+/* Custom First Page Styling */
+section#trinidad-aerospace {
+  text-align: center;
+}
+
+section#trinidad-aerospace img {
+  display: block;
+  margin: 2em auto;
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Subtle "book" lift */
+}
+
+/* Typography Clean-up */
+p {
+  margin: 0 0 1em 0;
+  text-align: justify; /* Common for books, but optional */
+}
+
+a {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+blockquote {
+  margin: 1.5em 1em;
+  padding-left: 1em;
+  border-left: 3px solid #ccc;
+  color: #444;
+  font-style: italic;
+}
+
+/* Image Handling */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+}
+
+figure {
+  margin: 2em 0;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.5em;
+}
+
+/* Helper Classes */
+.author {
+  font-size: 1.3em;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+/* Media Queries for different device sizes */
+@media screen and (min-width: 768px) {
+  body {
+    font-size: 18px; /* Larger screens get a comfortable reading size */
+  }
+}
+
+/* EPUB Specific Page Breaks */
+@media print {
+  h1, h2 {
+    page-break-before: always;
+  }
+}
