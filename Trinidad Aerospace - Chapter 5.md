@@ -254,3 +254,5 @@ Someone who was part of Project PROMETHEUS.
 The fire-bringer.
 
 Ready or not, we were about to give humanity the stars.
+
+![](Images/1.png){.img-half}

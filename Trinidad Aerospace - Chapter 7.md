@@ -318,3 +318,5 @@ But right now, we were just three trucks driving through early morning Trinidad,
 The road that led to the stars.
 
 Ready or not, here we go.
+
+![](Images/cd.png){.chapter-divider}

@@ -278,3 +278,5 @@ And through the skylights above, Trinidad's morning sun poured down like a spotl
 No turning back now.
 
 Forward was the only direction left.
+
+![](Images/cd.png){.chapter-divider}

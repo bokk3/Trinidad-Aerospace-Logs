@@ -110,3 +110,5 @@ I didn't answer. Didn't know yet. But I also knew I'd already started thinking a
 Above us, through the open walls of the tower, stars were beginning to fade as dawn crept up on the horizon. First light touching the jungle edges of the Northern Range.
 
 And somewhere out there, in a facility I'd never seen, rockets were waiting.
+
+![](Images/cd.png){.chapter-divider}

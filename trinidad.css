@@ -83,6 +83,46 @@ figcaption {
   margin-top: 0.5em;
 }
 
+/* Image Width Control Classes */
+/* Full width (default behavior) */
+img.img-full, figure.img-full img {
+  max-width: 100%;
+}
+
+/* Three-quarter width */
+img.img-three-quarter, figure.img-three-quarter img {
+  max-width: 75%;
+}
+
+/* Half width */
+img.img-half, figure.img-half img {
+  max-width: 50%;
+}
+
+/* Third width */
+img.img-third, figure.img-third img {
+  max-width: 33%;
+}
+
+/* Quarter width - good for small icons/decorations */
+img.img-quarter, figure.img-quarter img {
+  max-width: 25%;
+}
+
+/* Chapter divider style - centered decorative image */
+img.chapter-divider, figure.chapter-divider img {
+  max-width: 40%;
+  margin: 2em auto;
+  opacity: 0.8;
+}
+
+/* Cover/splash style - full bleed */
+img.img-cover {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 /* Helper Classes */
 .author {
   font-size: 1.3em;

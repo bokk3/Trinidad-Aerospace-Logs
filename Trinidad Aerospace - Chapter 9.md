@@ -180,3 +180,5 @@ T-minus twenty minutes.
 Dawn was coming.
 
 And with it, everything.
+
+![](Images/1.png){.img-half}
