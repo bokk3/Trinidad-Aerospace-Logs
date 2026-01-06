@@ -1,7 +1,7 @@
 # The Trinidad Aerospace Institute Logs  
 **Pt. #1**
 
-![Cover Art](Images/1.png)
+![Cover Art](Images/cover.png)
 
 ## Overview
 
