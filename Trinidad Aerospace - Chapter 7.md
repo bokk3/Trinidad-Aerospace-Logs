@@ -67,7 +67,7 @@ Dr. Lal was already pulling up thermal analysis models. "He's right. The injecto
 
 "So we heat cycle and retest?" Gabi asked.
 
-"Not enough time," Dr. Ramcharan said. "Heat cycle takes six hours minimum to do properly. We need to leave for Tobago in seven hours. If we delay departure, we lose the weather window—tropical depression is forecast for midweek."
+"Not enough time," Dr. Ramcharan said. "Heat cycle takes six hours minimum to do properly. We need to leave for Tobago in seven hours. If we delay departure, we lose the weather window, tropical depression is forecast for midweek."
 
 Everyone looked at each other. The weight of the moment was palpable. Months of work, millions of dollars, the first real test of metallic hydrogen propulsion—all potentially derailed by a bolt torque issue.
 

@@ -9,6 +9,12 @@ pandoc -o "Trinidad Aerospace.epub" \
 "Trinidad Aerospace - Chapter 3.md" \
 "Trinidad Aerospace - Chapter 4.md" \
 "Trinidad Aerospace - Chapter 5.md" \
+"Trinidad Aerospace - Chapter 6.md" \
+"Trinidad Aerospace - Chapter 7.md" \
+"Trinidad Aerospace - Chapter 8.md" \
+"Trinidad Aerospace - Chapter 9.md" \
+"Trinidad Aerospace - Chapter 10.md" \
+"Trinidad Aerospace - Chapter 11.md" \
 "Character Reference.md" \
 "Set & Setting.md" \
 "Chapter Outline.md"
