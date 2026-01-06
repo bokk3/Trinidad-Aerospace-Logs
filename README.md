@@ -21,6 +21,7 @@ Some stories start in parking garages and end on launch pads.
 
 (PDF):[Download The Trinidad Aerospace Institute Logs - Pt. #1](Downloads/Trinidad-Aerospace-Institute-Logs.pdf)
 
+PDF is slighlty outdated, but content is similar.
 ---
 
 **Author:** Boris Truyens  
