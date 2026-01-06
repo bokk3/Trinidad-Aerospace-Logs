@@ -1,5 +1,4 @@
-# The Trinidad Aerospace Institute Logs
-## Character Reference Guide
+# Character Reference Guide
 ### [META - Personnel Database]
 
 **Note:** *This document exists outside the narrative timeline. Consider it a personnel file, a character roster for those following the logs. Some information may contain spoilers for events yet to unfold.*

@@ -1,5 +1,4 @@
-# The Trinidad Aerospace Institute Logs, Pt. One
-## Chapter Outline
+# Chapter Outline
 
 ### **Chapter 1: The Garage Tower**
 *The drift scene at dawn. Dr. Ramcharan appears and makes the offer.*

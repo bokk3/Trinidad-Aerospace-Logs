@@ -1,5 +1,4 @@
-# The Trinidad Aerospace Institute Logs
-## Set & Setting Reference Guide
+# Set & Setting Reference Guide
 ### [META - Location Database]
 
 **Note:** *This document exists outside the narrative timeline. Consider it a location reference for understanding the geography and atmosphere of the story. Some details may contain spoilers for events yet to unfold.*
