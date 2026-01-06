@@ -7,7 +7,7 @@
 
 *The Trinidad Aerospace Institute Logs* is a near-future science-fiction short set in 2043, where street-level ingenuity collides with a hidden Caribbean aerospace program.
 
-A self-taught engineer documenting the physics of illegal night racing is quietly recruited into Trinidad’s most secret institution — an underground network of laboratories, launch facilities, and experimental propulsion systems concealed beneath jungle, concrete, and coastline.
+A self-taught engineer documenting the physics of illegal night racing is quietly recruited into Trinidad’s most secret institution - an underground network of laboratories, launch facilities, and experimental propulsion systems concealed beneath jungle, concrete, and coastline.
 
 From neon-lit garages to mist-filled rocket bays, this story explores what happens when raw problem-solving ability meets institutional secrecy, and when innovation demands both discretion and sacrifice.
 
@@ -17,9 +17,9 @@ Some stories start in parking garages and end on launch pads.
 
 📘 **Read Part One:**
 
-(EPUB):[Download The Trinidad Aerospace Institute Logs — Pt. #1](https://github.com/bokk3/Trinidad-Aerospace-Logs/raw/refs/heads/master/Downloads/Trinidad-Aerospace-Institute-Logs.epub)
+(EPUB):[Download The Trinidad Aerospace Institute Logs - Pt. #1](https://github.com/bokk3/Trinidad-Aerospace-Logs/raw/refs/heads/master/Downloads/Trinidad-Aerospace-Institute-Logs.epub)
 
-(PDF):[Download The Trinidad Aerospace Institute Logs — Pt. #1](Downloads/Trinidad-Aerospace-Institute-Logs.pdf)
+(PDF):[Download The Trinidad Aerospace Institute Logs - Pt. #1](Downloads/Trinidad-Aerospace-Institute-Logs.pdf)
 
 ---
 

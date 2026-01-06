@@ -7,35 +7,35 @@
 
 ---
 
-"So the main floor is basically our open workspace," Gabi explained as we walked. "Most of the day-to-day engineering happens here. You've got individual workstations clustered by specialty—propulsion over there, avionics in that corner, structures and materials by the windows, systems integration where I usually camp out."
+"So the main floor is basically our open workspace," Gabi explained as we walked. "Most of the day-to-day engineering happens here. You've got individual workstations clustered by specialty, propulsion over there, avionics in that corner, structures and materials by the windows, systems integration where I usually camp out."
 
 The space reminded me less of a traditional aerospace facility and more of a high-end tech startup, if tech startups built rockets instead of apps. Everything was clean but lived-in. Whiteboards covered in equations that had been erased and rewritten so many times the markers had stained the surface. Coffee cups at nearly every desk. A surprising number of plants.
 
 "Dr. Ramcharan believes in biophilic design," Raj said, noticing my attention to the greenery. "Says it improves cognitive function and reduces stress. Also, it's nice. Not everything needs a peer-reviewed justification."
 
-A woman in her mid-thirties looked up from a workstation as we passed. She resembled Dr. Ramcharan—same facial structure, same intense focus—but with softer edges. She was wearing jeans and a sweater despite the climate-controlled environment.
+A woman in her mid-thirties looked up from a workstation as we passed. She resembled Dr. Ramcharan, same facial structure, same intense focus, but with softer edges. She was wearing jeans and a sweater despite the climate-controlled environment.
 
 "That's Maya Chen," Gabi said quietly. "Computational dynamics lead. Runs all our trajectory simulations and orbital mechanics calculations. Basically, if you want to know where something will be in space, she can tell you down to the centimeter."
 
-"Chen?" I asked. "But she looks like—"
+"Chen?" I asked. "But she looks like- "
 
-"Dr. Ramcharan's younger sister," Raj confirmed. "Different last name because Maya got married. Small family operation in some ways. Though Maya earned her position—PhD in computational physics, worked at ESA before coming here."
+"Dr. Ramcharan's younger sister," Raj confirmed. "Different last name because Maya got married. Small family operation in some ways. Though Maya earned her position, PhD in computational physics, worked at ESA before coming here."
 
 Maya noticed us looking and waved, offering a warmer smile than her sister typically displayed. Then she went back to her screens, which were showing what looked like complex orbital trajectories.
 
-We continued through the main floor. I tried to absorb everything at once—the layout, the people, the equipment, the general vibe of organized chaos that suggested serious work happening under casual surface.
+We continued through the main floor. I tried to absorb everything at once, the layout, the people, the equipment, the general vibe of organized chaos that suggested serious work happening under casual surface.
 
 "Conference rooms along the perimeter," Gabi pointed out. "Glass walls so Dr. Ramcharan can always see if people are actually working or just having meetings about meetings. She has opinions about meeting efficiency."
 
 "She has opinions about everything," Raj added. "Most of them correct, which is annoying."
 
-"Break room and cafeteria are up one level," Gabi continued. "We'll hit those later. Down one level is admin—HR, finance, legal, all the boring stuff that keeps us operating. Dr. Ramcharan's office is also down there, though she's rarely in it."
+"Break room and cafeteria are up one level," Gabi continued. "We'll hit those later. Down one level is admin, HR, finance, legal, all the boring stuff that keeps us operating. Dr. Ramcharan's office is also down there, though she's rarely in it."
 
 "Where is she usually?" I asked.
 
 "Everywhere. Nowhere. It's unnerving." Raj shrugged. "She has this ability to materialize exactly when something interesting or problematic is happening. We suspect cameras everywhere, but honestly, I think she's just that good at reading the facility's energy."
 
-We passed through a set of double doors into another section. The atmosphere changed immediately—less open workspace, more specialized lab environment. The lighting was different here, more focused. The air smelled like metal and chemicals and the particular ozone scent of electrical equipment running hot.
+We passed through a set of double doors into another section. The atmosphere changed immediately, less open workspace, more specialized lab environment. The lighting was different here, more focused. The air smelled like metal and chemicals and the particular ozone scent of electrical equipment running hot.
 
 "The development lab," Gabi announced. "Dr. Lal's kingdom. This is where we test subsystems, validate designs, break things in controlled ways so they don't break in uncontrolled ways later."
 
@@ -49,7 +49,7 @@ Dr. Lal was there, naturally, examining something with a pair of calipers while 
 
 "He's solved three supposedly impossible propulsion challenges in the last four years, so we don't question his methods."
 
-We moved through the lab, Gabi pointing out different testing stations and explaining their purposes. I recognized some of the principles from my blog work—thrust measurement, heat management, flow dynamics—but scaled up to industrial levels with equipment I'd never dreamed of using.
+We moved through the lab, Gabi pointing out different testing stations and explaining their purposes. I recognized some of the principles from my blog work, thrust measurement, heat management, flow dynamics, but scaled up to industrial levels with equipment I'd never dreamed of using.
 
 "You'll spend a lot of time here," Gabi said. "Everyone does, eventually. This is where theory meets reality and usually loses the fight."
 
@@ -59,7 +59,7 @@ Not a normal door.
 
 This door was maybe eight inches thick, solid steel, with rubber seals around the frame and what looked like pressure indicators built into the surface. A biometric lock. Multiple warning signs: AUTHORIZED PERSONNEL ONLY. HAZARDOUS MATERIALS. PRESSURE TESTING IN PROGRESS.
 
-And next to the door, a small window. Maybe twelve inches square. But the glass—if it was glass—was matted, frosted, impossible to see through clearly.
+And next to the door, a small window. Maybe twelve inches square. But the glass, if it was glass, was matted, frosted, impossible to see through clearly.
 
 I stopped walking.
 
@@ -77,7 +77,7 @@ I moved closer to the window. The matted glass scattered light in a way that mad
 
 "Eventually, maybe. Depends on your assignment and clearance level. Some people work here for months without accessing the restricted areas. Others practically live in them." Raj pulled me away from the door. "But definitely not today. Come on, more to see."
 
-We continued the tour. Up to the second level, where the cafeteria turned out to be a decent-sized space with actual windows showing—carefully curated—views of what looked like industrial Trinidad. The food stations were simple but well-stocked. The coffee, as promised, smelled excellent.
+We continued the tour. Up to the second level, where the cafeteria turned out to be a decent-sized space with actual windows showing, carefully curated, views of what looked like industrial Trinidad. The food stations were simple but well-stocked. The coffee, as promised, smelled excellent.
 
 "We run 24/7 operations sometimes," Gabi explained. "So there's always food available. Midnight snacks are a legitimate line item in our budget. Dr. Ramcharan believes in feeding people properly. Hungry engineers make stupid mistakes."
 
@@ -85,17 +85,17 @@ A few people were scattered around tables despite the early hour. Some eating br
 
 "The team's pretty tight," Raj said, grabbing a cup of coffee. "Small enough that everyone knows everyone. We do monthly potlucks, Carnival crew goes to fetes together, that sort of thing. It's not just a job. Can't be, really, given the secrecy. We're kind of all we've got."
 
-Back down to the main level, through another section I hadn't seen before. This area was more industrial—the factory floor Gabi had mentioned. The ceiling was higher here, maybe thirty feet, with overhead cranes and heavy equipment.
+Back down to the main level, through another section I hadn't seen before. This area was more industrial, the factory floor Gabi had mentioned. The ceiling was higher here, maybe thirty feet, with overhead cranes and heavy equipment.
 
-"Manufacturing and assembly," Gabi said. "Where we actually build the hardware. Wrench—sorry, Leonard Joseph—runs this section. He's old-school machinist, learned his trade before computer-controlled anything. But he can make parts to tolerances most modern machines can't match."
+"Manufacturing and assembly," Gabi said. "Where we actually build the hardware. Wrench, sorry, Leonard Joseph, runs this section. He's old-school machinist, learned his trade before computer-controlled anything. But he can make parts to tolerances most modern machines can't match."
 
-The space reminded me of the SpaceX videos I'd watched—similar layout, similar equipment, just scaled down. Large 3D printers for metal printing. CNC machines. Welding stations with proper ventilation. Composite layup tables. An autoclave for curing advanced materials.
+The space reminded me of the SpaceX videos I'd watched, similar layout, similar equipment, just scaled down. Large 3D printers for metal printing. CNC machines. Welding stations with proper ventilation. Composite layup tables. An autoclave for curing advanced materials.
 
 And another restricted door.
 
-This one was even more dramatic. Reinforced steel frame, pressure seals, multiple biometric locks. But the real tell was the airgap system—I could see the double-door setup, the kind used when contamination control matters. Or when what's inside needs to stay very, very separate from what's outside.
+This one was even more dramatic. Reinforced steel frame, pressure seals, multiple biometric locks. But the real tell was the airgap system, I could see the double-door setup, the kind used when contamination control matters. Or when what's inside needs to stay very, very separate from what's outside.
 
-The matted glass window here was larger, maybe two feet square. I could see more through it—the vague outline of what might have been a clean room setup. Figures in white suits. Something large and cylindrical that could have been a fuel tank or pressure vessel or something else entirely.
+The matted glass window here was larger, maybe two feet square. I could see more through it, the vague outline of what might have been a clean room setup. Figures in white suits. Something large and cylindrical that could have been a fuel tank or pressure vessel or something else entirely.
 
 "That's the materials processing lab," Raj said before I could ask. "Where we do specialized composite work and handle certain... sensitive... materials that require isolation. Temperature control, humidity control, positive pressure environment. Very expensive to maintain, very necessary for what we do."
 
@@ -109,13 +109,13 @@ The matted glass window here was larger, maybe two feet square. I could see more
 
 Gabi checked her tablet. "Okay, we're making decent time. One more area to show you before we throw you at the paperwork."
 
-We took a different corridor, this one leading to what Gabi called the "nerve center"—the computer core and simulation lab. Maya's domain, apparently, though the space looked like it served multiple purposes.
+We took a different corridor, this one leading to what Gabi called the "nerve center", the computer core and simulation lab. Maya's domain, apparently, though the space looked like it served multiple purposes.
 
-Server racks hummed along one wall, generating enough heat that the air conditioning was noticeably stronger here. Multiple workstations faced large displays showing various data visualizations—trajectories, weather patterns, orbital mechanics, things I didn't have context to understand yet.
+Server racks hummed along one wall, generating enough heat that the air conditioning was noticeably stronger here. Multiple workstations faced large displays showing various data visualizations, trajectories, weather patterns, orbital mechanics, things I didn't have context to understand yet.
 
 The lighting here had a slight blue tint, easier on the eyes for long screen sessions. The furniture was all ergonomic, designed for people who spent twelve-hour shifts doing calculations.
 
-And at the far end of this room—because of course—another restricted door.
+And at the far end of this room, because of course, another restricted door.
 
 This one was different. Less industrial, more... clean. Almost clinical. White walls around it instead of gray. The door itself was still reinforced steel, but the aesthetic was laboratory rather than factory. The matted glass window showed hints of blue light inside. Computer equipment, maybe. Or something else that glowed.
 
@@ -173,7 +173,7 @@ It was overwhelming and exhilarating in equal measure.
 
 "What's the mass constraint?" I asked.
 
-"Ah! Good question. See, most rocket engines prioritize thrust-to-weight ratio. Bigger engines, more thrust, acceptable if they're heavy. But we're optimizing for a different variable. Can't tell you which one yet—that's classified—but it changes everything about the design space."
+"Ah! Good question. See, most rocket engines prioritize thrust-to-weight ratio. Bigger engines, more thrust, acceptable if they're heavy. But we're optimizing for a different variable. Can't tell you which one yet, that's classified, but it changes everything about the design space."
 
 He showed me thermal management systems, exotic materials testing, computational fluid dynamics simulations running on Maya's computers. Every piece was fascinating. Every explanation opened up three new questions.
 
@@ -203,7 +203,7 @@ Isaiah "Zay" Williams turned out to be at the Trinidad facility for the week, up
 
 "Overwhelming. Exciting. Confusing."
 
-"That's accurate for the first six months, honestly." He grinned. "Wait till you see the Tobago facility. That's when it gets real. Watching something you worked on actually launch—nothing else like it."
+"That's accurate for the first six months, honestly." He grinned. "Wait till you see the Tobago facility. That's when it gets real. Watching something you worked on actually launch, nothing else like it."
 
 "When's the next test?" I asked.
 
@@ -225,7 +225,7 @@ This door was different from the others.
 
 No warning signs. No pressure indicators. Just clean reinforced steel with a single biometric lock and that now-familiar matted glass window.
 
-I stepped closer, knowing I shouldn't but unable to resist. The glass scattered light in strange patterns, making it impossible to see details. But there was something in there. Movement. The suggestion of open space, maybe. And lights—bright lights, not the dim blue of computer screens or the harsh fluorescents of testing chambers. These looked almost like... daylight?
+I stepped closer, knowing I shouldn't but unable to resist. The glass scattered light in strange patterns, making it impossible to see details. But there was something in there. Movement. The suggestion of open space, maybe. And lights, bright lights, not the dim blue of computer screens or the harsh fluorescents of testing chambers. These looked almost like... daylight?
 
 How could there be daylight this deep in the facility's interior?
 
@@ -237,7 +237,7 @@ I spun around. Dr. Ramcharan stood there, having materialized from nowhere as pr
 
 "And you found the fourth door. Interesting." She moved to stand beside me, looking at the matted glass. "What do you think is in there?"
 
-"I have no idea. The other three make sense—pressure testing, materials processing, secure computing. But this one..." I gestured at the door. "No warnings. Different locks. And that light looks natural, which shouldn't be possible."
+"I have no idea. The other three make sense, pressure testing, materials processing, secure computing. But this one..." I gestured at the door. "No warnings. Different locks. And that light looks natural, which shouldn't be possible."
 
 "Very good observation." She was pleased. "You're right. This room is different from the others. But I can't tell you why yet. Not until you're read into the project that requires it."
 
@@ -251,17 +251,17 @@ I thought about it. Not just the physical facility, but the patterns, the implic
 
 "Continue."
 
-"The facility is designed to look smaller than it is. The tunnel makes you think you're going deep underground, but we're actually mostly above ground. The approach is disorienting on purpose—makes it harder to know where you actually are relative to the city. And the legal fronts Gabi mentioned, the warehouses and light industry... you're hiding in plain sight. Nobody looks twice at boring buildings."
+"The facility is designed to look smaller than it is. The tunnel makes you think you're going deep underground, but we're actually mostly above ground. The approach is disorienting on purpose, makes it harder to know where you actually are relative to the city. And the legal fronts Gabi mentioned, the warehouses and light industry... you're hiding in plain sight. Nobody looks twice at boring buildings."
 
 "What else?"
 
-"The team is small. Maybe thirty people total? Forty? Small enough that everyone knows everyone, large enough to have specialists in every needed discipline. You're not trying to scale up production—this is a research and development operation. You're proving concepts, not building commercial vehicles."
+"The team is small. Maybe thirty people total? Forty? Small enough that everyone knows everyone, large enough to have specialists in every needed discipline. You're not trying to scale up production, this is a research and development operation. You're proving concepts, not building commercial vehicles."
 
 Dr. Ramcharan smiled, the first genuine smile I'd seen from her. "Excellent. One more question. Why Trinidad and Tobago?"
 
 I'd been thinking about that all day.
 
-"Location is good for launches—close to equator, ocean to the east for safety. But that's not unique. Plenty of places have that." I considered. "The real reason is political, isn't it? Trinidad and Tobago is small enough that you can operate without excessive scrutiny, developed enough that you have infrastructure and skilled workers, but not so prominent on the world stage that foreign governments pay close attention to what happens here. You're below the radar."
+"Location is good for launches, close to equator, ocean to the east for safety. But that's not unique. Plenty of places have that." I considered. "The real reason is political, isn't it? Trinidad and Tobago is small enough that you can operate without excessive scrutiny, developed enough that you have infrastructure and skilled workers, but not so prominent on the world stage that foreign governments pay close attention to what happens here. You're below the radar."
 
 "And?"
 
@@ -271,7 +271,7 @@ She nodded slowly. "You passed the observation test. Most people notice the equi
 
 "And the restricted areas?"
 
-"One step at a time." We reached the main floor atrium. "You'll get home around six tonight, assuming no emergencies. The tunnel is less unsettling going back—you know what to expect. Same route, fifteen minutes. Colonel Thompson will scan you out."
+"One step at a time." We reached the main floor atrium. "You'll get home around six tonight, assuming no emergencies. The tunnel is less unsettling going back, you know what to expect. Same route, fifteen minutes. Colonel Thompson will scan you out."
 
 "Do I come back tomorrow the same way?"
 
@@ -281,17 +281,17 @@ I thought about my best friends, waiting to hear how my first day went. Thought 
 
 "I can do that," I said.
 
-"Good." She turned to leave, then stopped. "You did well today. The tunnel, the observation test, the way you handled being thrown into everything—you're adapting faster than most. Keep that up."
+"Good." She turned to leave, then stopped. "You did well today. The tunnel, the observation test, the way you handled being thrown into everything, you're adapting faster than most. Keep that up."
 
 It was the closest thing to praise I'd heard from her. I'd take it.
 
-The rest of the afternoon passed in a blur of technical documents and onboarding materials. By 5:45 PM, my brain was full and I was ready to leave. Raj showed me the exit procedure—biometric scan, confirmation from security, then the long walk back through those tunnels.
+The rest of the afternoon passed in a blur of technical documents and onboarding materials. By 5:45 PM, my brain was full and I was ready to leave. Raj showed me the exit procedure, biometric scan, confirmation from security, then the long walk back through those tunnels.
 
 This time, as Colonel Thompson had predicted, they were less unsettling. I knew what to expect. The curves didn't disorient. The darkness between lights was just darkness. The whole thing took thirteen minutes instead of fourteen.
 
 Still didn't like it, though. Don't think I ever would.
 
-My Subaru sat exactly where I'd left it that morning, covered in slightly more dust but otherwise untouched. I got in, started the engine—that familiar sound, that familiar vibration—and pulled out of the hidden garage.
+My Subaru sat exactly where I'd left it that morning, covered in slightly more dust but otherwise untouched. I got in, started the engine, that familiar sound, that familiar vibration, and pulled out of the hidden garage.
 
 The evening city sprawled around me. Normal Port of Spain. People heading home from work, vendors closing up shops, traffic building toward the dinner hour chaos. The regular world, where rockets weren't built in secret and everyone could talk about their day.
 
@@ -307,7 +307,7 @@ I sat at a red light, watching the city flow around me, and typed out responses 
 
 *Day one was good. Facility is impressive. People seem smart and dedicated.*
 
-*Can't really talk about specifics—serious NDAs. But yeah, it's actual aerospace work.*
+*Can't really talk about specifics, serious NDAs. But yeah, it's actual aerospace work.*
 
 *Definitely exhausted. Rain check on meeting up? Tomorrow maybe?*
 

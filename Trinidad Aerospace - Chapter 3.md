@@ -9,7 +9,7 @@
 
 The hidden garage looked exactly like what it was pretending to be: forgotten.
 
-Water stains traced abstract patterns down concrete walls that had probably been poured in the 1980s. Fluorescent tubes hummed overhead, half of them flickering with the irregular rhythm of fixtures that should have been replaced years ago. The floor was cracked, with weeds pushing through in corners where no one bothered to spray anymore. A few other vehicles sat in the shadows—sedans, SUVs, nothing remarkable—covered in the fine dust that accumulates when tropical humidity meets abandonment.
+Water stains traced abstract patterns down concrete walls that had probably been poured in the 1980s. Fluorescent tubes hummed overhead, half of them flickering with the irregular rhythm of fixtures that should have been replaced years ago. The floor was cracked, with weeds pushing through in corners where no one bothered to spray anymore. A few other vehicles sat in the shadows, sedans, SUVs, nothing remarkable, covered in the fine dust that accumulates when tropical humidity meets abandonment.
 
 It felt wrong. Deliberately wrong. Like a movie set dressed to look like a place nobody cared about.
 
@@ -17,7 +17,7 @@ The woman who'd let me in had already disappeared somewhere into the shadows. I 
 
 "First time?"
 
-I spun around. A man had materialized from behind a concrete pillar—or maybe he'd been there the whole time and I just hadn't noticed. He was maybe mid-forties, compact build, wearing dark tactical clothing that managed to look both casual and intimidating. His face was unremarkable in that specific way that made you immediately forget what he looked like. Except for the scar above his left eyebrow.
+I spun around. A man had materialized from behind a concrete pillar, or maybe he'd been there the whole time and I just hadn't noticed. He was maybe mid-forties, compact build, wearing dark tactical clothing that managed to look both casual and intimidating. His face was unremarkable in that specific way that made you immediately forget what he looked like. Except for the scar above his left eyebrow.
 
 "Yeah," I managed. "First time."
 
@@ -35,7 +35,7 @@ I nodded.
 
 "Just the phone."
 
-He pulled out a tablet and tapped something. "Biometric scan. Look here." He held up the device and a soft light flashed across my face. "Now thumb on the pad." I pressed my thumb against the screen. It tingled slightly—probably reading more than just my fingerprint.
+He pulled out a tablet and tapped something. "Biometric scan. Look here." He held up the device and a soft light flashed across my face. "Now thumb on the pad." I pressed my thumb against the screen. It tingled slightly, probably reading more than just my fingerprint.
 
 "You'll do that every time you enter or exit," he said, returning the tablet to wherever he'd produced it from. "Miss it once, you're locked out until Dr. Ramcharan personally vouches for you. Which she won't appreciate."
 
@@ -45,7 +45,7 @@ He pulled out a tablet and tapped something. "Biometric scan. Look here." He hel
 
 "Crystal."
 
-"Good." He gestured toward a corner of the garage I hadn't really noticed before. There was a door there, industrial gray, with a small sign reading "MAINTENANCE ONLY" in faded letters. "That's your way in. Follow the tunnel. Don't take any side passages—they all dead-end anyway, and you'll just get lost. Takes about fifteen minutes to walk. Elevator's at the far end. Dr. Ramcharan will meet you there."
+"Good." He gestured toward a corner of the garage I hadn't really noticed before. There was a door there, industrial gray, with a small sign reading "MAINTENANCE ONLY" in faded letters. "That's your way in. Follow the tunnel. Don't take any side passages, they all dead-end anyway, and you'll just get lost. Takes about fifteen minutes to walk. Elevator's at the far end. Dr. Ramcharan will meet you there."
 
 "That's it?"
 
@@ -63,7 +63,7 @@ Cool air rushed out, smelling of stone and earth and something metallic. The kin
 
 I stepped through and let the door close behind me.
 
-The sound of it sealing—a heavy, pneumatic hiss—felt like punctuation. A sentence ending. The normal world on one side, whatever came next on the other.
+The sound of it sealing, a heavy, pneumatic hiss, felt like punctuation. A sentence ending. The normal world on one side, whatever came next on the other.
 
 The stairs were easy. Concrete, well-maintained despite the aesthetic of abandonment upstairs. My boots echoed in the enclosed space. At the bottom, the tunnel opened up.
 
@@ -73,7 +73,7 @@ The floor was smooth concrete, slightly damp in places where water seeped throug
 
 I started walking.
 
-The first few minutes were fine. Uncomfortable, sure—I'd never been great with enclosed spaces—but manageable. The tunnel ran straight, sloping gently downward. The air was cool and slightly moving, pushed by ventilation systems I couldn't see. My footsteps echoed strangely, the sound bouncing back in ways that made it hard to judge distance.
+The first few minutes were fine. Uncomfortable, sure, I'd never been great with enclosed spaces, but manageable. The tunnel ran straight, sloping gently downward. The air was cool and slightly moving, pushed by ventilation systems I couldn't see. My footsteps echoed strangely, the sound bouncing back in ways that made it hard to judge distance.
 
 Then I hit the first turn.
 
@@ -83,11 +83,11 @@ Colonel Thompson's words came back: *The tunnels are unsettling.*
 
 Yeah. That was an understatement.
 
-I kept walking. The slope continued downward, which felt wrong. We were in Trinidad—island, sea level, tropical. How deep underground was this facility? And why would you build down when you could build out?
+I kept walking. The slope continued downward, which felt wrong. We were in Trinidad, island, sea level, tropical. How deep underground was this facility? And why would you build down when you could build out?
 
 Unless you were hiding something.
 
-Another curve, this time to the left. The light from the last LED faded before the next one came into view, leaving me in near-darkness for about three seconds. My brain immediately supplied horror movie logic: something could be in that darkness, something could be following, what if the lights go out completely—
+Another curve, this time to the left. The light from the last LED faded before the next one came into view, leaving me in near-darkness for about three seconds. My brain immediately supplied horror movie logic: something could be in that darkness, something could be following, what if the lights go out completely.. 
 
 I forced myself to breathe normally and keep walking at the same pace. Not running. Not panicking. Just moving forward like this was normal, like walking through underground tunnels carved beneath a city was something people did every day.
 
@@ -105,7 +105,7 @@ The temperature dropped slightly. Not much, but enough to notice. My breath didn
 
 Another turn. Then another. The tunnel system felt deliberate, like it was designed to disorient. You couldn't walk straight for more than thirty seconds before the path curved again, always gently, never sharp enough to call a corner but enough that you lost all sense of direction.
 
-Colonel Thompson had said fifteen minutes. I checked my watch—already seven minutes in. Halfway point coming up.
+Colonel Thompson had said fifteen minutes. I checked my watch, already seven minutes in. Halfway point coming up.
 
 *Once you're past the halfway point, there's no good place to change your mind.*
 
@@ -113,13 +113,13 @@ I understood now. If I turned back at this point, I'd have to navigate all those
 
 No. Forward was the only option now.
 
-The tunnel widened slightly. Here, the walls were definitely hand-carved—rough stone, dark gray, with tool marks still visible. This section felt older, like it had been excavated first and everything else built around it. Natural cave system, maybe, that T.A.I. had found and expanded.
+The tunnel widened slightly. Here, the walls were definitely hand-carved, rough stone, dark gray, with tool marks still visible. This section felt older, like it had been excavated first and everything else built around it. Natural cave system, maybe, that T.A.I. had found and expanded.
 
 I passed another side tunnel. This one had a chain across it and a sign: "UNSTABLE - NO ENTRY." What the hell was down there? And why keep an unstable tunnel instead of sealing it?
 
 Questions I'd probably never get answered.
 
-Eight minutes. Nine. The sound of dripping water was closer now. I could see it ahead—a steady stream trickling down from a crack in the ceiling, forming a small puddle in a depression in the floor. I stepped around it, careful not to slip on the wet concrete.
+Eight minutes. Nine. The sound of dripping water was closer now. I could see it ahead, a steady stream trickling down from a crack in the ceiling, forming a small puddle in a depression in the floor. I stepped around it, careful not to slip on the wet concrete.
 
 The air smelled different here. Still that underground smell, but with a hint of something else. Machinery oil, maybe. Ozone. The smell of a place where work happened.
 
@@ -151,7 +151,7 @@ Dr. Anika Ramcharan stood next to it, holding her ever-present briefcase, lookin
 
 "Everything's a race." She pressed her hand to the biometric scanner. The elevator dinged softly and the doors slid open. "Ready to see what you signed up for?"
 
-I stepped into the elevator. It was bigger than I expected—freight-sized, easily able to hold a dozen people or large equipment. The interior was brushed steel, clean and well-lit. Rubber floor for traction. Single control panel with cryptic labels: SUB-2, SUB-1, MAIN, LAB-1, LAB-2, ADMIN.
+I stepped into the elevator. It was bigger than I expected, freight-sized, easily able to hold a dozen people or large equipment. The interior was brushed steel, clean and well-lit. Rubber floor for traction. Single control panel with cryptic labels: SUB-2, SUB-1, MAIN, LAB-1, LAB-2, ADMIN.
 
 Dr. Ramcharan pressed her thumb to the scanner again and selected "MAIN."
 
@@ -175,7 +175,7 @@ Not a question.
 
 "It's designed to," I said. "Isn't it?"
 
-A slight smile. "Very good. Yes. It serves multiple purposes. Security, obviously—difficult to force entry through a winding tunnel with no clear sightlines. But also psychological. If you can't handle fifteen minutes of discomfort, you won't last fifteen hours in a pressure situation."
+A slight smile. "Very good. Yes. It serves multiple purposes. Security, obviously, difficult to force entry through a winding tunnel with no clear sightlines. But also psychological. If you can't handle fifteen minutes of discomfort, you won't last fifteen hours in a pressure situation."
 
 "So it's a test."
 
@@ -195,13 +195,13 @@ I don't know what I expected. More concrete, maybe. More industrial darkness. Mo
 
 What I got was light.
 
-Natural light, pouring through skylights I shouldn't have been able to see from underground. Except we weren't underground anymore—Dr. Ramcharan had said forty feet above sea level. Which meant...
+Natural light, pouring through skylights I shouldn't have been able to see from underground. Except we weren't underground anymore, Dr. Ramcharan had said forty feet above sea level. Which meant...
 
 The main level was above ground. Hidden in plain sight.
 
-The space beyond the elevator looked like a modern tech campus. Open floor plan, high ceilings, glass-walled offices and conference rooms along the perimeter. In the center, an atrium stretched up through multiple floors, with catwalks connecting different levels. Plants—actual living plants—hung from the walls and sat in planters between workstations.
+The space beyond the elevator looked like a modern tech campus. Open floor plan, high ceilings, glass-walled offices and conference rooms along the perimeter. In the center, an atrium stretched up through multiple floors, with catwalks connecting different levels. Plants, actual living plants, hung from the walls and sat in planters between workstations.
 
-And the workstations. Dozens of them, arranged in clusters. Large monitors, keyboards, prototyping equipment, 3D printers humming in the corner. Whiteboards covered in equations. People—actual people—moving between stations, talking, working, living their lives like this was normal.
+And the workstations. Dozens of them, arranged in clusters. Large monitors, keyboards, prototyping equipment, 3D printers humming in the corner. Whiteboards covered in equations. People, actual people, moving between stations, talking, working, living their lives like this was normal.
 
 The air smelled like coffee and electronics and possibility.
 
@@ -223,7 +223,7 @@ An older man joined us, gray beard, lab coat over a faded band t-shirt, holding 
 
 "Uh, yeah. That's me."
 
-"Brilliant piece. Absolutely brilliant. The way you explained phase space trajectories to an amateur audience—I've been teaching undergraduates for twenty years and never found a clearer way to convey that concept." He shook my hand enthusiastically. "I have so many questions about your methodology. Are you familiar with Lyapunov stability theory? Because what you were doing, whether you knew it or not, was—"
+"Brilliant piece. Absolutely brilliant. The way you explained phase space trajectories to an amateur audience, I've been teaching undergraduates for twenty years and never found a clearer way to convey that concept." He shook my hand enthusiastically. "I have so many questions about your methodology. Are you familiar with Lyapunov stability theory? Because what you were doing, whether you knew it or not, was- "
 
 "James," Dr. Ramcharan interrupted gently. "Perhaps save the technical interrogation until after orientation."
 
@@ -257,7 +257,7 @@ Raj pulled a tablet from somewhere and tapped the screen. "Okay, so, official to
 
 "I try." He grinned. "Come on. Let's show you where the magic happens."
 
-We started walking through the main floor, weaving between workstations and equipment. People glanced up as we passed—curiosity, evaluation, a few welcoming nods. Everyone looked busy. Actually busy, not corporate-busy. The kind of busy that comes from working on problems that matter.
+We started walking through the main floor, weaving between workstations and equipment. People glanced up as we passed, curiosity, evaluation, a few welcoming nods. Everyone looked busy. Actually busy, not corporate-busy. The kind of busy that comes from working on problems that matter.
 
 Somewhere in this building, they were building rockets.
 

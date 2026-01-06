@@ -21,7 +21,7 @@ Dr. Lal was waiting for me when the elevator doors opened onto the main floor. H
 
 "Classification briefing. Project orientation. The part where we actually tell you what we're building." He was already walking toward the development lab, and I hurried to keep up. "Dr. Ramcharan approved your upgrade last night based on your observation test performance. You're being read into Project PROMETHEUS."
 
-The name meant nothing to me, but the way Dr. Lal said it—with reverence and barely contained excitement—suggested it should.
+The name meant nothing to me, but the way Dr. Lal said it, with reverence and barely contained excitement, suggested it should.
 
 We entered the development lab. It was quieter this morning, with only a few other people working at various stations. Dr. Lal led me to a glass-walled conference room in the corner that I hadn't noticed during yesterday's tour. Inside, Maya was already seated with a laptop, and Gabi was pulling up presentations on a large display screen.
 
@@ -33,17 +33,17 @@ I did. The door sealed with a soft hiss, and suddenly the ambient noise from the
 
 I sat. My coffee suddenly felt very necessary.
 
-Dr. Lal pulled up the first slide on the display. It showed a simple molecular diagram—just hydrogen atoms, but arranged in a lattice structure I didn't recognize.
+Dr. Lal pulled up the first slide on the display. It showed a simple molecular diagram, just hydrogen atoms, but arranged in a lattice structure I didn't recognize.
 
 "What do you know about metallic hydrogen?" he asked.
 
 I searched my memory. "Theoretical form of hydrogen that exists under extreme pressure? Jupiter's core, maybe? Acts like a metal instead of a gas?"
 
-"Correct! Excellent baseline." Dr. Lal's enthusiasm kicked into higher gear. "Under sufficient pressure—around 500 gigapascals, roughly five million times atmospheric pressure—hydrogen atoms are compressed so tightly that they form a crystalline metallic structure. The electrons delocalize, allowing electrical conductivity. It was first theoretically predicted in 1935, briefly created in laboratory conditions in 2017, and has been the subject of intense research ever since."
+"Correct! Excellent baseline." Dr. Lal's enthusiasm kicked into higher gear. "Under sufficient pressure, around 500 gigapascals, roughly five million times atmospheric pressure, hydrogen atoms are compressed so tightly that they form a crystalline metallic structure. The electrons delocalize, allowing electrical conductivity. It was first theoretically predicted in 1935, briefly created in laboratory conditions in 2017, and has been the subject of intense research ever since."
 
 "Because it would make an incredible rocket propellant," I said, the pieces clicking together.
 
-"The greatest rocket propellant theoretically possible using chemical reactions," Maya corrected. "The specific impulse—efficiency, basically—would be roughly 1700 seconds. Current best chemical rockets achieve maybe 450 seconds. We're talking about a propellant nearly four times more efficient than anything currently in use."
+"The greatest rocket propellant theoretically possible using chemical reactions," Maya corrected. "The specific impulse, efficiency, basically, would be roughly 1700 seconds. Current best chemical rockets achieve maybe 450 seconds. We're talking about a propellant nearly four times more efficient than anything currently in use."
 
 Gabi pulled up the next slide, showing energy density comparisons. The metallic hydrogen bar dwarfed everything else.
 
@@ -57,9 +57,9 @@ The room went silent, letting that sink in.
 
 "That's what everyone said about heavier-than-air flight," Dr. Lal countered. "What everyone said about breaking the sound barrier. What everyone said about reaching orbit. Impossible just means nobody's figured out how yet."
 
-Maya pulled up a video. It showed a small chamber—maybe the size of a water bottle—with something inside that gleamed like mercury but seemed to pulse with internal light. "This is a 50-gram sample of room-temperature stable metallic hydrogen. The first in human history. Created here, in Trinidad, in a facility the world doesn't know exists."
+Maya pulled up a video. It showed a small chamber, maybe the size of a water bottle, with something inside that gleamed like mercury but seemed to pulse with internal light. "This is a 50-gram sample of room-temperature stable metallic hydrogen. The first in human history. Created here, in Trinidad, in a facility the world doesn't know exists."
 
-I stared at the screen. If this was real—if they'd actually achieved this—
+I stared at the screen. If this was real, if they'd actually achieved this- 
 
 "This changes everything," I breathed.
 
@@ -69,13 +69,13 @@ I stared at the screen. If this was real—if they'd actually achieved this—
 
 The three of them exchanged glances. Maya spoke first.
 
-"Because the same properties that make metallic hydrogen the perfect propellant also make it an incredibly dangerous weapon. The energy density we're talking about—a kilogram of this contains more explosive potential than a kilogram of TNT. Much more. And unlike nuclear materials, it's not radioactive. Wouldn't trigger any existing treaty protocols or detection systems."
+"Because the same properties that make metallic hydrogen the perfect propellant also make it an incredibly dangerous weapon. The energy density we're talking about, a kilogram of this contains more explosive potential than a kilogram of TNT. Much more. And unlike nuclear materials, it's not radioactive. Wouldn't trigger any existing treaty protocols or detection systems."
 
 "If the major powers knew we'd achieved this," Dr. Lal continued, "they'd do everything possible to control it. Classified it under national security. Seize the research. Or worse, simply take it by force and claim they'd developed it independently."
 
 "So Dr. Ramcharan came back to Trinidad," I said slowly, "to develop this outside the control of any major power."
 
-"Precisely." Maya pulled up another slide—a map showing Trinidad and Tobago's location. "Small nation, not strategically important enough to draw major attention. Politically stable. Good infrastructure. English-speaking, highly educated workforce. But most importantly: neutral ground. Not aligned with any major power bloc. Perfect place to develop something that belongs to humanity, not to any specific government."
+"Precisely." Maya pulled up another slide, a map showing Trinidad and Tobago's location. "Small nation, not strategically important enough to draw major attention. Politically stable. Good infrastructure. English-speaking, highly educated workforce. But most importantly: neutral ground. Not aligned with any major power bloc. Perfect place to develop something that belongs to humanity, not to any specific government."
 
 "Project PROMETHEUS," Dr. Lal said. "Named for the Titan who gave fire to humanity. We're giving humanity access to the stars."
 
@@ -83,11 +83,11 @@ Gabi activated the next section of the presentation. Technical diagrams, test da
 
 She walked me through them:
 
-"Area One—the pressure chamber you saw in the development lab. That's where we generate the initial high-pressure conditions to create the metallic hydrogen. Extreme pressure, extreme temperature, very dangerous if something fails. Hence the explosion-proof doors."
+"Area One, the pressure chamber you saw in the development lab. That's where we generate the initial high-pressure conditions to create the metallic hydrogen. Extreme pressure, extreme temperature, very dangerous if something fails. Hence the explosion-proof doors."
 
-"Area Two—the materials processing lab in the factory. That's where we create the carbon nanotube scaffolding and prepare the containment systems. Clean room environment because even microscopic contamination can destabilize the structures."
+"Area Two, the materials processing lab in the factory. That's where we create the carbon nanotube scaffolding and prepare the containment systems. Clean room environment because even microscopic contamination can destabilize the structures."
 
-"Area Three—the secure computing area. Maya's specialty. We're running constant simulations of the electromagnetic field configurations needed to maintain stability. The computational requirements are massive, and the algorithms are proprietary. That room contains our most valuable intellectual property."
+"Area Three, the secure computing area. Maya's specialty. We're running constant simulations of the electromagnetic field configurations needed to maintain stability. The computational requirements are massive, and the algorithms are proprietary. That room contains our most valuable intellectual property."
 
 "And Area Four?" I asked.
 
@@ -99,15 +99,15 @@ They all smiled.
 
 "Total accumulated stable metallic hydrogen?" Maya checked her laptop. "Approximately 2.3 kilograms. Which doesn't sound like much until you remember that even 100 grams would provide enough propellant for a significant orbital maneuver."
 
-Dr. Lal pulled up engine schematics. "Which brings us to what we're actually building. A rocket engine designed specifically to utilize metallic hydrogen propellant. Conventional engine designs don't work—the combustion characteristics are completely different. We're working from first principles, designing everything custom."
+Dr. Lal pulled up engine schematics. "Which brings us to what we're actually building. A rocket engine designed specifically to utilize metallic hydrogen propellant. Conventional engine designs don't work, the combustion characteristics are completely different. We're working from first principles, designing everything custom."
 
 The designs were elegant. Compact, compared to traditional rocket engines, because the propellant was so much more efficient. Multiple redundant systems for safety. Exotic materials to handle the thermal loads.
 
 "This is what I'll be working on?" I asked.
 
-"Part of it," Gabi said. "Your background in real-time dynamic systems makes you valuable for the control algorithms. The engine has to respond incredibly precisely—millisecond-level adjustments to maintain stable combustion. Dr. Lal thinks your work on drift control theory translates well to propulsion system stabilization."
+"Part of it," Gabi said. "Your background in real-time dynamic systems makes you valuable for the control algorithms. The engine has to respond incredibly precisely, millisecond-level adjustments to maintain stable combustion. Dr. Lal thinks your work on drift control theory translates well to propulsion system stabilization."
 
-"It's the same mathematics," Dr. Lal added enthusiastically. "Keeping a car in a controlled slide versus keeping a rocket engine in controlled combustion—both are problems of managing instability at the edge of chaos. Your intuition for one applies to the other."
+"It's the same mathematics," Dr. Lal added enthusiastically. "Keeping a car in a controlled slide versus keeping a rocket engine in controlled combustion, both are problems of managing instability at the edge of chaos. Your intuition for one applies to the other."
 
 "When do we test it?" I asked. "The engine, I mean."
 
@@ -117,7 +117,7 @@ The designs were elegant. Compact, compared to traditional rocket engines, becau
 
 "If you prove yourself this week, yes." Dr. Lal stood, opening the conference room door. The sounds of the lab flooded back in. "But first, you have to understand the system you'll be helping to control. Come. Let me show you what we're actually building."
 
-He led me out of the conference room to a workstation in the corner of the lab. The monitors showed complex simulation data—pressure curves, temperature gradients, combustion stability metrics.
+He led me out of the conference room to a workstation in the corner of the lab. The monitors showed complex simulation data, pressure curves, temperature gradients, combustion stability metrics.
 
 "This is your station," he said. "For the next week, you'll be running simulations of the engine control system. Learning how the engine responds to different input conditions. Building intuition for the dynamic behavior. By the time we get to Tobago, you'll know this engine as well as you know your Subaru."
 
@@ -125,11 +125,11 @@ I sat down, looking at the screens full of data. A week ago, I'd been writing bl
 
 "Dr. Lal," I said. "What happens when you announce this? When PROMETHEUS becomes public?"
 
-He smiled, but it was tinged with something like sadness. "The world changes. Space becomes accessible. But also, we lose control of it. Other nations will replicate our work—the theoretical basis is sound, they just need to know it's possible. They'll develop their own metallic hydrogen programs. Military applications will emerge. Someone will weaponize it, despite our best efforts to prevent that."
+He smiled, but it was tinged with something like sadness. "The world changes. Space becomes accessible. But also, we lose control of it. Other nations will replicate our work, the theoretical basis is sound, they just need to know it's possible. They'll develop their own metallic hydrogen programs. Military applications will emerge. Someone will weaponize it, despite our best efforts to prevent that."
 
 "So why do it at all?"
 
-"Because keeping humanity on one planet is ultimately more dangerous than giving them the stars. Climate change, asteroid impacts, pandemics—civilization is fragile when it exists in only one place. This gives us redundancy. A chance to spread out, to survive." He put a hand on my shoulder. "The fire that warms can also burn. That's the Promethean bargain. But humanity has always chosen to take the fire anyway."
+"Because keeping humanity on one planet is ultimately more dangerous than giving them the stars. Climate change, asteroid impacts, pandemics, civilization is fragile when it exists in only one place. This gives us redundancy. A chance to spread out, to survive." He put a hand on my shoulder. "The fire that warms can also burn. That's the Promethean bargain. But humanity has always chosen to take the fire anyway."
 
 ---
 
@@ -147,13 +147,13 @@ It was like drifting, actually. Reading the road, feeling the car's responses, m
 
 "Context is overrated. The math is the math." She pulled up a chair. "Want to see something cool?"
 
-She navigated to a different file, pulling up video footage. It showed the interior of one of the restricted areas—the pressure chamber, I guessed. In the center of frame was a compact engine, maybe three feet tall, mounted on a test stand.
+She navigated to a different file, pulling up video footage. It showed the interior of one of the restricted areas, the pressure chamber, I guessed. In the center of frame was a compact engine, maybe three feet tall, mounted on a test stand.
 
 "This is footage from three weeks ago. Our first successful full-duration burn with metallic hydrogen propellant. Ten seconds at 75% throttle."
 
 She hit play.
 
-The engine ignited with a sound that the microphone couldn't properly capture—too loud, too complex. But the visible result was unmistakable. A column of exhaust that glowed like captured sunlight, impossibly bright, impossibly hot. The thrust plume was shorter than a conventional rocket engine, more focused. More efficient.
+The engine ignited with a sound that the microphone couldn't properly capture, too loud, too complex. But the visible result was unmistakable. A column of exhaust that glowed like captured sunlight, impossibly bright, impossibly hot. The thrust plume was shorter than a conventional rocket engine, more focused. More efficient.
 
 And powerful. The test stand shook despite being bolted to the floor. The entire chamber vibrated.
 
@@ -163,7 +163,7 @@ Ten seconds later, it shut down smoothly.
 
 "How much did that burn cost? In terms of propellant?"
 
-"Eight grams of metallic hydrogen. Which took about forty hours to produce. We're still working on scaling up the production rate. It's the bottleneck right now—making it faster than we can use it."
+"Eight grams of metallic hydrogen. Which took about forty hours to produce. We're still working on scaling up the production rate. It's the bottleneck right now, making it faster than we can use it."
 
 I watched the video loop, that impossible bright plume. This was real. This was actually happening. In a secret facility in Trinidad, they'd solved one of aerospace's holy grail problems and built an engine to prove it.
 
@@ -229,7 +229,7 @@ Metallic hydrogen. Room temperature stable. Impossible made real.
 
 It was. Not just the material itself, but what it represented. Every cylinder was a door opening to the stars. Every gram was a ticket to somewhere new.
 
-The monitoring equipment lined one wall—electromagnetic field generators, temperature sensors, pressure monitors, automated safety systems. Everything needed to keep this miracle stable.
+The monitoring equipment lined one wall, electromagnetic field generators, temperature sensors, pressure monitors, automated safety systems. Everything needed to keep this miracle stable.
 
 "We'll transport three cylinders to Tobago," Dr. Ramcharan explained. "300 grams total. More than enough for a full-duration test burn plus redundancy. The rest stays here, secured."
 

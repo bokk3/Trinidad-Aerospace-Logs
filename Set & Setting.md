@@ -27,7 +27,7 @@
 **Physical Description:**
 - Open-air design with no exterior walls, just waist-high concrete barriers
 - Each level is approximately 200 feet by 150 feet
-- Exposed to elements—rain, wind, heat
+- Exposed to elements, rain, wind, heat
 - Concrete pillars every 30 feet supporting the structure
 - Spiral ramp system connecting floors
 - Level 7 is the preferred drift spot (highest level with good sightlines, lowest camera coverage)
@@ -38,7 +38,7 @@
 **Atmosphere & Lighting:**
 - **Dawn:** Golden light filtering through, long shadows from pillars, the city waking up below
 - **Night:** Sodium vapor lights (dim, orange-yellow glow), gaps of pure darkness between pools of light
-- **Sound:** City noise echoes up—distant soca music, traffic, conversations from streets below. Wind whistles through the open structure. Engine sounds reverberate dramatically off concrete.
+- **Sound:** City noise echoes up, distant soca music, traffic, conversations from streets below. Wind whistles through the open structure. Engine sounds reverberate dramatically off concrete.
 
 **View from Level 7:**
 - West: Downtown Port of Spain, Queen's Park Savannah, scattered high-rises
@@ -68,7 +68,7 @@
 - Constant sound of traffic, horns, music
 - Street vendors, late-night food spots
 - Mix of languages (English, Trinidadian Creole, Hindi phrases, Spanish)
-- Colorful buildings—blues, yellows, pinks—many needing paint
+- Colorful buildings, blues, yellows, pinks, many needing paint
 - Humidity always present, rain comes sudden and heavy
 
 **Key Areas:**
@@ -78,7 +78,7 @@
 - **Laventille Hills:** Overlooks city, residential, poorer areas mixed with middle-class
 
 **Flora Integration:**
-- Jungle encroaches everywhere—vacant lots become small forests within months
+- Jungle encroaches everywhere, vacant lots become small forests within months
 - Trees break through sidewalks
 - Vines climb buildings
 - Flash floods during rainy season turn streets to rivers
@@ -93,13 +93,13 @@
 - Peaks reach 900+ meters
 - Dense rainforest covering slopes
 - Waterfalls, hidden valleys, cave systems
-- Difficult terrain—steep, slippery, impenetrable in places
+- Difficult terrain, steep, slippery, impenetrable in places
 
 **Atmosphere:**
 - Primordial, ancient feeling
 - Morning mist rolling down slopes
 - Howler monkeys calling at dawn
-- Bird sounds—parrots, toucans, hundreds of species
+- Bird sounds, parrots, toucans, hundreds of species
 - Temperature drops noticeably in the forest
 - Light filters green through canopy
 
@@ -123,7 +123,7 @@
 - Rusted metal roll-up door that actually functions
 - Entrance disguised among similar industrial buildings
 - Interior: 30 cars can park, mostly T.A.I. staff vehicles
-- Lighting: Minimal—a few LED strips, lots of shadows
+- Lighting: Minimal, a few LED strips, lots of shadows
 - Concrete walls showing age, water stains
 - Small security booth (Colonel Thompson's domain)
 - Camera systems disguised as old fixtures
@@ -166,7 +166,7 @@
 **Walls & Surfaces:**
 - Exposed rock in some sections
 - Poured concrete in others
-- Water seepage in places—puddles, damp patches
+- Water seepage in places, puddles, damp patches
 - Cables and pipes running along ceiling
 - Occasional access panels
 - No graffiti, no signs of public use
@@ -242,7 +242,7 @@
 - Temperature controlled (23°C constant)
 - Sound: Hum of computers, occasional machine noises, conversation
 - Windows showing... something outside (what can you see from underground?)
-- Mix of organized chaos—cables everywhere but purposefully placed
+- Mix of organized chaos, cables everywhere but purposefully placed
 
 #### **The Common Areas**
 - Break room: Kitchen, comfortable seating, large windows with outside view
@@ -295,7 +295,7 @@
 - Music playing from various workstations
 - Smell of coffee always present
 - Feeling of being separated from normal world
-- Pride in secrecy—we're doing something important
+- Pride in secrecy, we're doing something important
 
 **Technology Level:**
 - Cutting-edge computers and software
@@ -303,7 +303,7 @@
 - Some equipment clearly custom-built
 - Mix of commercial and proprietary tools
 - Everything well-maintained
-- Nothing flashy—functional over aesthetic
+- Nothing flashy, functional over aesthetic
 
 ---
 
@@ -417,7 +417,7 @@
 - Sound of waves and jungle birds
 - Brilliant blue sky against green jungle
 - Salt smell from ocean
-- Sense of isolation—no other structures visible
+- Sense of isolation, no other structures visible
 - Both beautiful and lonely
 
 **Atmosphere - Launch Time:**
@@ -458,7 +458,7 @@
 - 20-minute flight
 - View of Gulf of Paria, coastlines
 - Landing at small private airstrip near facility
-- Brings sense of scale—T.A.I. operates across both islands
+- Brings sense of scale, T.A.I. operates across both islands
 
 ### **By Sea (Occasional)**
 - Longer but more discreet
@@ -583,4 +583,3 @@
 ---
 
 *End Set & Setting Reference Guide*  
-*Return to narrative in Chapter 2*

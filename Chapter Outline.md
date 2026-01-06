@@ -9,10 +9,10 @@
 *Three days of deliberation. Conversations with Marcus and Keisha. The protagonist researches T.A.I. online (finding almost nothing). The decision to accept. Making the call.*
 
 ### **Chapter 3: First Descent**
-*Following Dr. Ramcharan's instructions to the hidden garage beneath the city. The unsettling journey through dimly lit tunnels. The elevator ride up. First arrival at the facility—the surprise that it's mostly above ground.*
+*Following Dr. Ramcharan's instructions to the hidden garage beneath the city. The unsettling journey through dimly lit tunnels. The elevator ride up. First arrival at the facility, the surprise that it's mostly above ground.*
 
 ### **Chapter 4: Behind Matted Glass**
-*Tour of the accessible areas of the facility. Meeting the full team. The protagonist discovers the four restricted zones with explosion-proof doors—glimpses of something through the matted glass windows. The observation test. Questions they're not allowed to ask yet. First experience keeping secrets from Marcus and Keisha.*
+*Tour of the accessible areas of the facility. Meeting the full team. The protagonist discovers the four restricted zones with explosion-proof doors, glimpses of something through the matted glass windows. The observation test. Questions they're not allowed to ask yet. First experience keeping secrets from Marcus and Keisha.*
 
 ### **Chapter 5: The Lab**
 *Second day. Real work begins in the development lab with Dr. Lal's team. Introduction to the actual project they're working on. The protagonist's skills are put to the test. Hands-on engineering work.*

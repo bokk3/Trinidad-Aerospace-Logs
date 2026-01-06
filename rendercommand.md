@@ -4,7 +4,6 @@ pandoc -o "Trinidad Aerospace.epub" \
 --css=trinidad.css \
 --toc --toc-depth=1 \
 "cover.md" \
---toc \
 "Trinidad Aerospace - Chapter 1.md" \
 "Trinidad Aerospace - Chapter 2.md" \
 "Trinidad Aerospace - Chapter 3.md" \

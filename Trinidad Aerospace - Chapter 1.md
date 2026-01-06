@@ -9,11 +9,11 @@
 
 The thing about drifting in Trinidad is that you need to know where the cameras aren't.
 
-I'd been documenting blind spots in the city's surveillance grid for three years on my blog, *Kinetic Vector*. Started as a physics project—calculating drift angles, posting breakdowns of weight transfer and momentum—but it evolved into something else. A map of freedom, basically. Places where you could push a car to its limits without some algorithm flagging you for reckless driving.
+I'd been documenting blind spots in the city's surveillance grid for three years on my blog, *Kinetic Vector*. Started as a physics project, calculating drift angles, posting breakdowns of weight transfer and momentum, but it evolved into something else. A map of freedom, basically. Places where you could push a car to its limits without some algorithm flagging you for reckless driving.
 
 The parking tower on Ariapita Avenue was one of the good ones. Built in the '30s when parking was still an afterthought in urban planning, before every structure got wired with sensors and smart concrete. Twelve floors of open-air levels, the outer walls just waist-high barriers giving way to the Port of Spain skyline. During the day, it was half-empty. At night, it belonged to us.
 
-I pulled my '39 Subaru—heavily modified, naturally—onto Level 7 around 2 AM. The engine's hum echoed off the concrete pillars, mixing with the distant sound of soca drifting up from a bar somewhere in the Woodbrook maze below. Through the open sides of the structure, the city sprawled out in layers: streetlights cutting through patches of darkness, and beyond that, the darker mass of the Northern Range, where jungle still claimed the steep hillsides.
+I pulled my '39 Subaru, heavily modified, naturally, onto Level 7 around 2 AM. The engine's hum echoed off the concrete pillars, mixing with the distant sound of soca drifting up from a bar somewhere in the Woodbrook maze below. Through the open sides of the structure, the city sprawled out in layers: streetlights cutting through patches of darkness, and beyond that, the darker mass of the Northern Range, where jungle still claimed the steep hillsides.
 
 Marcus was already there, leaning against his Honda, vaping something that smelled like mango and waiting with that particular kind of patience that meant he'd been scrolling through his phone for at least twenty minutes.
 
@@ -33,7 +33,7 @@ Marcus pocketed his phone and walked a slow circle around my Subaru, the way he 
 
 I waved him off. "Later. Let's make some noise first."
 
-The plan was simple: a few runs around Level 7's perimeter, testing the limits of adhesion on turns we'd memorized. Nothing too wild—we weren't trying to end up on the evening news or in the harbor. Just enough to feel that perfect moment when physics and control intersect, when you're steering with the throttle more than the wheel.
+The plan was simple: a few runs around Level 7's perimeter, testing the limits of adhesion on turns we'd memorized. Nothing too wild, we weren't trying to end up on the evening news or in the harbor. Just enough to feel that perfect moment when physics and control intersect, when you're steering with the throttle more than the wheel.
 
 I fired up the engine, let it growl, felt the vibration through the seat. Marcus got into position at the opposite end of the level. We'd start from different corners, cross paths in the middle, see who could hold their line better. Stupid, maybe, but that was part of the point.
 
@@ -63,7 +63,7 @@ She stopped about ten feet from my car, close enough to talk but far enough to r
 
 I glanced at Marcus, who looked as confused as I felt. "Yeah. That's me."
 
-"I've read all sixty-three posts. The analysis of weight distribution in modified drivetrains was particularly impressive. The post about using machine learning to predict tire degradation—that showed real insight."
+"I've read all sixty-three posts. The analysis of weight distribution in modified drivetrains was particularly impressive. The post about using machine learning to predict tire degradation, that showed real insight."
 
 "Thanks?" It came out like a question because I genuinely didn't know what else to say. People didn't usually track me down in person to discuss my blog.
 
@@ -71,7 +71,7 @@ She adjusted her grip on the briefcase. "My name is Dr. Anika Ramcharan. I'm the
 
 The words hung in the air between us, absurd and impossible. Aerospace? I wrote about *cars*. Street racing. Physics as a hobby, not a profession.
 
-"I don't—" I started, but she held up a hand.
+"I don't- " I started, but she held up a hand.
 
 "I know what you're thinking. You're self-taught, no formal degree, just a blog and a modified Subaru. But that's exactly why I'm here." She took a step closer, and in the dim light of the parking tower, I could see she was completely serious. "The Trinidad Aerospace Institute doesn't need more academics. We need people who understand systems, who can solve problems in real-time, who think about physics not as theory but as something you *do*. You've been doing it your whole life."
 

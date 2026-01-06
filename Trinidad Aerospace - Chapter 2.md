@@ -16,7 +16,7 @@ For an aerospace company supposedly building next-generation rockets, T.A.I. had
 
 Which either meant they were incredibly serious about secrecy, or I'd been approached by the most elaborate scam in Trinidad's history.
 
-"You're overthinking it," Marcus said, not for the first time. We were in his uncle's garage—the one where I actually worked for money—and he was watching me stare at the card instead of finishing the brake job I'd been paid to do.
+"You're overthinking it," Marcus said, not for the first time. We were in his uncle's garage, the one where I actually worked for money, and he was watching me stare at the card instead of finishing the brake job I'd been paid to do.
 
 "Am I?" I held up my phone, showing him the search results. "Look at this. Nothing. No employee reviews, no project announcements, no government contracts listed anywhere. It's like they don't exist."
 
@@ -30,7 +30,7 @@ Which either meant they were incredibly serious about secrecy, or I'd been appro
 
 Marcus wiped his hands on a rag, leaving new grease stains on top of old ones. "Look, you want my honest opinion? I think you're scared."
 
-"Of course I'm scared. She's asking me to disappear into some underground facility I can't tell anyone about, working on projects I can't blog about, for reasons that aren't entirely clear—"
+"Of course I'm scared. She's asking me to disappear into some underground facility I can't tell anyone about, working on projects I can't blog about, for reasons that aren't entirely clear- "
 
 "You're scared it's real," Marcus interrupted. "You're scared you'll say yes and actually be good at it. Or worse, you'll say yes and realize you're in over your head, and then you can't come back to this." He gestured around the garage. "To us."
 
@@ -60,11 +60,11 @@ That was Keisha. Give her a computer and a challenge, and she'd find things that
 
 Keisha showed up at my apartment that night with her laptop and a rum punch she'd made herself. She sat cross-legged on my couch and proceeded to tear through digital archives like someone who'd done this professionally.
 
-"Okay, so Dr. Anika Ramcharan," she said, pulling up multiple windows. "Born in San Fernando, 1989. Full scholarship to MIT for aerospace engineering. Graduated top of her class. PhD by 26. Worked at NASA's Jet Propulsion Laboratory for five years on ion propulsion systems—that's legit, by the way. Left to join SpaceX, worked there for three years on Raptor engine development."
+"Okay, so Dr. Anika Ramcharan," she said, pulling up multiple windows. "Born in San Fernando, 1989. Full scholarship to MIT for aerospace engineering. Graduated top of her class. PhD by 26. Worked at NASA's Jet Propulsion Laboratory for five years on ion propulsion systems, that's legit, by the way. Left to join SpaceX, worked there for three years on Raptor engine development."
 
 "How did you find all that?" I asked, leaning over her shoulder. "I couldn't find anything."
 
-"You were looking in the wrong places. Academic databases, conference proceedings, patent filings—she's all over those. She co-authored a paper on hybrid rocket propulsion that got cited like 200 times." Keisha scrolled through dense technical documents. "Then, seven years ago, she just... vanishes. No more papers. No more conferences. No social media presence. Nothing."
+"You were looking in the wrong places. Academic databases, conference proceedings, patent filings, she's all over those. She co-authored a paper on hybrid rocket propulsion that got cited like 200 times." Keisha scrolled through dense technical documents. "Then, seven years ago, she just... vanishes. No more papers. No more conferences. No social media presence. Nothing."
 
 "That's when she came back to Trinidad."
 
@@ -78,7 +78,7 @@ Keisha gave me a look. "That could mean a lot of things. Good things, questionab
 
 "I think it's interesting." She closed her laptop. "I think someone that smart, with that resume, doesn't just disappear for fun. She's building something. The question is whether you want to be part of it."
 
-"The blog—"
+"The blog- "
 
 "The blog is great," Keisha cut me off. "You've built something cool. But be honest with yourself. Is writing about car modifications what you want to do forever? Or do you want to actually build something that matters?"
 
@@ -140,7 +140,7 @@ There was a pause. "That would be... difficult. The kind of work we do changes h
 
 It made sense. It also made me nervous.
 
-"My friends—"
+"My friends- "
 
 "Can know you're working for an aerospace company. They can know it's classified work. They cannot know where, or on what, or with whom. If you can't lie to the people you care about, this won't work."
 
@@ -158,7 +158,7 @@ And somewhere else, hidden beneath this city and across the water in Tobago, peo
 
 "Monday. I'll text you the address for the entry point. Arrive at 6 AM. Bring work clothes and an open mind. Leave your phone in your car."
 
-"That's it? No contracts, no background check, no—"
+"That's it? No contracts, no background check, no- "
 
 "Oh, the background check started the moment you answered this call. You'll sign approximately forty pages of NDAs on your first day." She sounded amused. "But yes, that's it. Welcome to the Trinidad Aerospace Institute."
 
@@ -214,7 +214,7 @@ Keisha had pushed her curfew to the limit to be there. Marcus had brought beer, 
 
 "Okay, but I'm still going to be me. Just... a version of me that knows about rockets."
 
-Marcus crushed his empty beer can. "Promise me something. If it gets weird, if they're doing something shady, if you feel like you made a mistake—you call us. We'll come get you."
+Marcus crushed his empty beer can. "Promise me something. If it gets weird, if they're doing something shady, if you feel like you made a mistake, you call us. We'll come get you."
 
 "From a secret facility you don't know the location of?"
 
@@ -254,7 +254,7 @@ I went inside, set three alarms, and tried to sleep.
 
 Didn't work. Ended up staring at my ceiling until 4 AM, running through every possible version of what the next day might bring.
 
-At 5:15 AM, I gave up on sleep, showered, dressed in my usual work clothes—jeans, boots, a plain t-shirt. Left my phone on the charger like Dr. Ramcharan instructed.
+At 5:15 AM, I gave up on sleep, showered, dressed in my usual work clothes, jeans, boots, a plain t-shirt. Left my phone on the charger like Dr. Ramcharan instructed.
 
 At 5:45 AM, I was in my car, driving toward an address in East Port of Spain that Google Maps said was an abandoned commercial building.
 
